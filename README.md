@@ -1,4 +1,4 @@
-# LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation
+# SSA-Pose: Spatial Shape Awareness for RGB-Based Category-Level Object Pose Estimation
 
 ## Environment Setup
 
