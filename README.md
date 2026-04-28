@@ -4,9 +4,6 @@
 
 To install the required dependencies, use the following commands:
 
-```bash
-conda env create -f Lapose.yaml
-```
 
 ## Data Preparation
 * Download the data from [NOCS](https://github.com/hughw19/NOCS_CVPR2019).
